@@ -1,0 +1,65 @@
+.containerCls{
+    width: 60% !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+}
+
+.containerCls1{
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.radioBtn{
+    padding-left: 33px !important;
+}
+
+label:after{
+    font-weight:bold;
+    content: " *";
+    color: red;
+}
+label {
+    font-weight: bold;
+    padding-top: 20px;
+}
+th{
+    font-weight: 400;
+}
+.firstRow{
+border-style: hidden;
+}
+
+input[type="submit"]{
+    font-weight: 400;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 20px;
+}
+.lastname{
+    padding-left: 190px;
+    font-size: small;
+    font-family: 'Rubik', sans-serif;
+}
+.firstname{
+    font-size: small;
+    font-family: 'Rubik', sans-serif;
+}
+
+input[type="gmail"] {
+    width: 365px;
+}
+
+input.firstbox{
+    margin-right: 27px;
+}
+.fa-star{
+    color: orange;
+
+}
+label,span,td,th{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+  
+  
